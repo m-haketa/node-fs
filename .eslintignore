@@ -1,0 +1,5 @@
+graphql.ts
+**/__generated__/**/*
+**/node_modules/**/*
+**/migration/**/*
+**/.next/**/*
